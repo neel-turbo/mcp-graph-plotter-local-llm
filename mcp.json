@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "plotter": {
+      "command": "python",
+      "args": ["plot_server.py"]
+    }
+  }
+}
